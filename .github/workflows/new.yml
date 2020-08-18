@@ -27,11 +27,19 @@ jobs:
       - name: Update
         run: python build_readme.py
 
-      - name: Deploy
-        uses: peaceiris/actions-gh-pages@v3
+      - name: Commit
+        env:
+          TZ: Asia/Shanghai
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add README.md
+          git commit -m \
+          ":pencil: Update at \
+          $(date +"%Y-%m-%d %H:%M") \
+          "
+
+      - name: Push
+        uses: ad-m/github-push-action@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_branch: master
-          publish_dir: ./
-          user_name: 'github-actions[bot]'
-          user_email: 'github-actions[bot]@users.noreply.github.com'

@@ -17,14 +17,21 @@
 
 **Information currently available**
 
-🎓 Studying in Harbin, a「small」city in northeast China<br />
-⚙ Majoring in electrical engineering and automation<br />
-🍻 Love Japanese anime about love and fighting especially<br />
-📃 Like to browse and write blogs in my spare time<br />
-💩 Can write the most basic html code, not javascript<br />
-🎯 Looking forward to learning Node.js / Vue.js / PHP / Python etc.<br />
+🎓 Studying in Harbin, a「small」city in northeast China
+
+⚙ Majoring in electrical engineering and automation
+
+🍻 Love Japanese anime about love and fighting especially
+
+📃 Like to browse and write blogs in my spare time
+
+💩 Can write the most basic html code, not javascript
+
+🎯 Looking forward to learning Node.js / Vue.js / PHP / Python etc.
 
 </div>
+
+<br />
 
 <br />
 
