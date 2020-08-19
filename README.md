@@ -47,7 +47,7 @@
  ※ 《[New Start](https://blog.monsterx.cn/life/new-start-with-gridsome/)》15 Aug 2020<br />
  ※ 《[从零开始的追番生活](https://blog.monsterx.cn/tech/auto-download-bangumi-with-aria2-rss/)》28 Jul 2020<br />
  ※ 《[照葫芦画瓢 · 编写 Actions 打卡工作流](https://blog.monsterx.cn/tech/modified-github-actions-4-heu-checkin/)》30 Jun 2020<br />
- ※ 《[日记 · 常](https://blog.monsterx.cn/life/daily-impermanence/)》18 May 2020<br />
+ ※ 《[手帐 · 常](https://blog.monsterx.cn/life/daily-impermanence/)》18 May 2020<br />
 
 
  [Read more..](https://blog.monsterx.cn/)
