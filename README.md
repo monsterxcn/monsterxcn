@@ -7,7 +7,7 @@
 > Amateur developer writing junk code. <br />
 > No one knows *how to touch fish* (means waste of time in Chinese) better than me!
 
-![](https://img.shields.io/badge/-HTML-e34f26?style=flat-square&logo=HTML5&logoColor=fff) ![](https://img.shields.io/badge/-CSS-1572b6?style=flat-square&logo=CSS3&labelColor=1572b6) ![](https://img.shields.io/badge/-JavaScript-e5cd0c?style=flat-square&logo=JavaScript&labelColor=f7df1e&logoColor=000) ![](https://img.shields.io/badge/-Clang-A8B9CC?style=flat-square&logo=C&logoColor=fff) ![](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=fff) ![](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=fff)
+![](https://img.shields.io/badge/-HTML-e34f26?style=flat-square&logo=HTML5&labelColor=e34f26&logoColor=fff) ![](https://img.shields.io/badge/-CSS-1572b6?style=flat-square&logo=CSS3&labelColor=1572b6&logoColor=fff) ![](https://img.shields.io/badge/-JavaScript-f7df1e?style=flat-square&logo=JavaScript&labelColor=f7df1e&logoColor=fff) ![](https://img.shields.io/badge/-C/Cpp-a8b9cc?style=flat-square&logo=C&labelColor=a8b9cc&logoColor=fff) ![](https://img.shields.io/badge/-Python-3776ab?style=flat-square&logo=Python&labelColor=3776ab&logoColor=fff) ![](https://img.shields.io/badge/-VSCode-007acc?style=flat-square&logo=Visual%20Studio%20Code&labelColor=007acc&logoColor=fff)
 
 <br />
 
@@ -17,16 +17,11 @@
 
 **Information currently available**
 
-🎓 Studying in Harbin, a「small」city in northeast China
-
-⚙ Majoring in electrical engineering and automation
-
-🍻 Love Japanese anime about love and fighting especially
-
-📃 Like to browse and write blogs in my spare time
-
-💩 Can write the most basic html code, not javascript
-
+🎓 Studying in Harbin, a「small」city in northeast China <br />
+⚙ Majoring in electrical engineering and automation <br />
+🍻 Love Japanese anime about love and fighting especially <br />
+📃 Like to browse and write blogs in my spare time <br />
+💩 Can write the most basic html code, not javascript <br />
 🎯 Looking forward to learning Node.js / Vue.js / PHP / Python etc.
 
 </div>
