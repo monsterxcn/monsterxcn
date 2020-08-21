@@ -38,11 +38,11 @@
 
 <!-- posts start -->
 
+ ※ 《[为 Gridsome 添加 Artalk 自托管评论系统](https://blog.monsterx.cn/code/use-self-hosted-comment-system-in-gridsome/)》21 Aug 2020<br />
  ※ 《[GitHub README.md 显示博文并自动更新](https://blog.monsterx.cn/code/update-your-posts-in-readme/)》18 Aug 2020<br />
  ※ 《[新起点 × 博客中文排版](https://blog.monsterx.cn/life/new-start-with-gridsome/)》15 Aug 2020<br />
  ※ 《[从零开始的追番生活](https://blog.monsterx.cn/tech/auto-download-bangumi-with-aria2-rss/)》28 Jul 2020<br />
  ※ 《[照葫芦画瓢 · 编写 Actions 打卡工作流](https://blog.monsterx.cn/tech/modified-github-actions-4-heu-checkin/)》30 Jun 2020<br />
- ※ 《[手帐 · 常](https://blog.monsterx.cn/life/daily-impermanence/)》18 May 2020<br />
 
 
  [Read more..](https://blog.monsterx.cn/)
