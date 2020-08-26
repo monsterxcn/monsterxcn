@@ -21,7 +21,7 @@
 ⚙ Majoring in electrical engineering and automation <br />
 🍻 Love Japanese anime about love and fighting especially <br />
 📃 Like to browse and write blogs in my spare time <br />
-💩 Can write the most basic html code, not javascript <br />
+💩 Can write the most basic HTML code, not JavaScript <br />
 🎯 Looking forward to learning Node.js / Vue.js / PHP / Python etc.
 
 </div>
