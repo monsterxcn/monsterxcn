@@ -28,7 +28,7 @@ def fetch_posts(url):
     for post in posts[:NUM]:
         # markdown += " ※ 《[" + post.title + "](" + post.link + ")》" + post.published + "<br />\n"
         markdown += " - 《[" + post.title + "](" + post.link + ")》    " + post.published[5:16] + "<br />\n"
-    markdown += "\n\n [Read more..](" + blog['feed']['link'] + ")\n"
+    #markdown += "\n\n [Read more..](" + blog['feed']['link'] + ")\n"
     return markdown
 
 if __name__ == "__main__":
