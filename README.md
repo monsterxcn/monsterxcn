@@ -1,8 +1,8 @@
+<img src="https://github-readme-stats.mrdulin.vercel.app/api?username=monsterxcn&count_private=true&show_icons=true&hide_border=true&icon_color=586069&title_color=0366d6" align="right">
+
 #### Monst.x  =^ω^=
 
 > Amateur developer writing junk code. 
-
-<img src="https://github-readme-stats.mrdulin.vercel.app/api?username=monsterxcn&count_private=true&show_icons=true&hide_border=true&icon_color=586069&title_color=0366d6" align="right">
 
  - [Blog](https://blog.monsterx.cn)
  - [Twitter](https://twitter.com/monsterxcn)
@@ -28,9 +28,6 @@
  - 《[GitHub README.md 显示博文并自动更新](https://blog.monsterx.cn/code/update-your-posts-in-readme/)》18 Aug 2020<br />
  - 《[新起点 × 博客中文排版](https://blog.monsterx.cn/life/new-start-with-gridsome/)》15 Aug 2020<br />
  - 《[从零开始的追番生活](https://blog.monsterx.cn/tech/auto-download-bangumi-with-aria2-rss/)》28 Jul 2020<br />
-
-
- [Read more..](https://blog.monsterx.cn/)
 
 <!-- posts end -->
 
