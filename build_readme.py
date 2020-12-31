@@ -27,7 +27,7 @@ def fetch_posts(url):
     # So I just intercept the middle part of the character
     for post in posts[:NUM]:
         # markdown += " ※ 《[" + post.title + "](" + post.link + ")》" + post.published + "<br />\n"
-        markdown += " ※ 《[" + post.title + "](" + post.link + ")》" + post.published[5:16] + "<br />\n"
+        markdown += " - 《[" + post.title + "](" + post.link + ")》    " + post.published[5:16] + "<br />\n"
     markdown += "\n\n [Read more..](" + blog['feed']['link'] + ")\n"
     return markdown
 
