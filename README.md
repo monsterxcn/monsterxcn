@@ -1,17 +1,18 @@
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=monsterxcn&show_icons=true&count_private=true&title_color=0366d6&text_color=24292e&icon_color=40c463&bg_color=fff" />
-</a>
+#### Monst.x  =^ω^=
 
-**Monst.x  =^ω^=**
+> Amateur developer writing junk code. 
 
-> Amateur developer writing junk code. <br />
-> No one knows *how to touch fish* (means waste of time in Chinese) better than me!
+<img src="https://github-readme-stats.mrdulin.vercel.app/api?username=monsterxcn&count_private=true&show_icons=true&hide_border=true&icon_color=586069&title_color=0366d6" align="right">
 
 ![](https://img.shields.io/badge/-HTML-e34f26?style=flat-square&logo=HTML5&labelColor=e34f26&logoColor=fff) ![](https://img.shields.io/badge/-CSS-1572b6?style=flat-square&logo=CSS3&labelColor=1572b6&logoColor=fff) ![](https://img.shields.io/badge/-JavaScript-f7df1e?style=flat-square&logo=JavaScript&labelColor=f7df1e&logoColor=fff) ![](https://img.shields.io/badge/-C/Cpp-a8b9cc?style=flat-square&logo=C&labelColor=a8b9cc&logoColor=fff) ![](https://img.shields.io/badge/-Python-3776ab?style=flat-square&logo=Python&labelColor=3776ab&logoColor=fff) ![](https://img.shields.io/badge/-VSCode-007acc?style=flat-square&logo=Visual%20Studio%20Code&labelColor=007acc&logoColor=fff)
 
-<br />
+**Find me here**
 
-<br />
+ - [Twitter](https://twitter.com/monsterxcn)
+ - [Telegram](https://t.me/monsterxcn)
+ - [Bilibili](https://space.bilibili.com/358575230)
+ - [E-mail](mailto:monsterxcn@gmail.com)
+
 
 <div align="center">
 
@@ -26,13 +27,6 @@
 
 </div>
 
-<br />
-
-<br />
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=monsterxcn" />
-</a>
 
 **Recently published articles**
 
