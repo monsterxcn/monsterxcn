@@ -32,7 +32,3 @@
 <!-- posts end -->
 
 <small>\* See how this works in this [article](https://blog.monsterx.cn/code/update-your-posts-in-readme/).</small>
-
-**Let's Genshin Impact**
-
-<img src="https://genshin-card.getloli.com/detail/[1,2,6,7,17,18,21,33,34,37]/281410093.png" width="400px">
