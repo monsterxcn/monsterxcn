@@ -23,11 +23,11 @@
 
 <!-- posts start -->
 
- - 《[NoneBot 插件编写尝试](https://blog.monsterx.cn/code/experiences-4-nonebot-2/)》    22 Aug 2021<br />
+ - 《[过时的 NoneBot2 插件编写心得](https://blog.monsterx.cn/code/outdated-tips-4-nonebot-2/)》    16 Jul 2022<br />
+ - 《[NoneBot2 插件编写尝试](https://blog.monsterx.cn/code/experiences-4-nonebot-2/)》    22 Aug 2021<br />
  - 《[手帐 · 生死](https://blog.monsterx.cn/life/daily-death/)》    30 May 2021<br />
  - 《[猎户座 S10 5G 更新 Android 11 / Magisk / LSPosed 记录](https://blog.monsterx.cn/tech/flash-magisk-latest-4-sumsung-s10-5-g-exynos/)》    03 Feb 2021<br />
  - 《[年度 · 2020](https://blog.monsterx.cn/life/2020-annual-summary/)》    20 Jan 2021<br />
- - 《[手帐 · 封锁之下](https://blog.monsterx.cn/life/heu-in-amazing-walls/)》    30 Sep 2020<br />
 
 <!-- posts end -->
 
