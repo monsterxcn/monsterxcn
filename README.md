@@ -12,7 +12,6 @@
 
 **Information currently available**
 
- - 🎓 Studying in Harbin, a「small」city in northeast China.
  - ⚙ Majoring in electrical engineering and automation.
  - 🍻 Love Japanese anime about love and fighting especially.
  - 📃 Like to browse and write blogs in my spare time.
